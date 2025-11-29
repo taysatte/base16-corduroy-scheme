@@ -13,7 +13,7 @@
 
 <div align="center">
 
-[![GitHub Last Commit](https://img.shields.io/github/last-commit/taysatte/corduroy-theme-vscode?style=for-the-badge&logo=github&labelColor=261e2a&color=443c4a)](https://github.com/taysatte/corduroy-theme-warp)
+[![GitHub Last Commit](https://img.shields.io/github/last-commit/taysatte/base16-corduroy-scheme?style=for-the-badge&logo=github&labelColor=261e2a&color=443c4a)](https://github.com/taysatte/base16-corduroy-scheme)
 &nbsp;
 [![License](https://img.shields.io/badge/license-MIT-443c4a?style=for-the-badge&logo=visual-studio-code&labelColor=261e2a)](LICENSE.md)
 
