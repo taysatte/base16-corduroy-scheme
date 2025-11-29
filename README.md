@@ -1,6 +1,6 @@
 <p align="center">
     <img alt="Corduroy Icon" width="80" src="./assets/icons/icon.png">
-    <h1 align="center">Corduroy for Warp Terminal</h1>
+    <h1 align="center">Corduroy for Base16</h1>
 </p>
 
 <p align="center">
@@ -19,29 +19,11 @@
 
 </div>
 
-## 📦 Installation
+## 📦 Usage
 
-1. Create the themes directory if it doesn't already exist:
+This repository contains the Corduroy color scheme in Base16 YAML format. Use it with [Base16 builders](https://github.com/chriskempson/base16) to generate theme files for your favorite applications.
 
-   ```bash
-   mkdir -p ~/.warp/themes
-   ```
-
-2. Navigate to the themes directory and clone the repository:
-
-   ```bash
-   cd ~/.warp/themes && git clone https://github.com/taysatte/corduroy-theme-warp
-   ```
-
-3. Open Warp > Settings > Appearance > Themes, scroll all the way down to see the new Corduroy theme.
-
-4. You might need to restart Warp for it to register the new theme as per the documentation.
-
-   > **Note:** It may take several minutes for Warp to initially discover the new config directory. You can either wait or just restart the application. After that step, all future changes to `~/.warp/themes` directory will be reflected in Warp within seconds.
-
-## 🎨 Gallery
-
-![Screen](./assets/screens/screen.png)
+> The `corduroy.yaml` file contains all 16 color values that can be used to build themes for terminals, editors, and other applications that support Base16.
 
 ---
 
